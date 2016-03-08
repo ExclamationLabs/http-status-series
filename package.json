@@ -16,6 +16,14 @@
   },
   "author": "Bill Thornton <bill@exclamationlabs.com>",
   "license": "BSD-2-Clause",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ExclamationLabs/http-status-series.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ExclamationLabs/http-status-series/issues"
+  },
+  "homepage": "https://github.com/ExclamationLabs/http-status-series",
   "dependencies": {
   },
   "devDependencies": {
