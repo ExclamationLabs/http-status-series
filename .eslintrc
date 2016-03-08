@@ -1,0 +1,13 @@
+{
+  "env": {
+    "mocha": true,
+    "node": true
+  },
+  "rules": {
+    "indent": [2, "tab"],
+    "quote-props": [2, "always"],
+    "quotes": [2, "double", "avoid-escape"],
+    "semi": [2, "never"]
+  },
+  "extends": "eslint:recommended"
+}

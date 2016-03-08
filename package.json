@@ -1,0 +1,27 @@
+{
+  "name": "http-status-series",
+  "version": "1.0.0",
+  "description": "Utility to check http status codes",
+  "keywords": [
+    "http",
+    "status",
+    "series"
+  ],
+  "main": "http-status-series.js",
+  "scripts": {
+    "lint": "eslint .",
+    "lint-fix": "eslint --fix .",
+    "test": "eslint . && mocha test/",
+    "coverage": "istanbul cover _mocha -- -R spec"
+  },
+  "author": "Bill Thornton <bill@exclamationlabs.com>",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "eslint": "^1.10.3",
+    "istanbul": "^0.4.1",
+    "mocha": "^2.3.4",
+    "should": "^8.0.2"
+  }
+}
