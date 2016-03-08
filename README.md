@@ -4,6 +4,12 @@ A simple utility for checking HTTP status codes.
 
 Inspired by `HttpStatus` in the [Spring Framework](https://spring.io/).
 
+Install
+-------
+```js
+npm install http-status-series
+```
+
 API
 ---
 
